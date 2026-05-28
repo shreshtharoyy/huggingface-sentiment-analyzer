@@ -43,10 +43,7 @@ pip install transformers torch
 ```
 
 ## Run the Project
-
-```bash
-python app.py
-```
+Open the notebook in Google Colab or Jupyter Notebook and run the cells sequentially.
 
 ## Project Purpose
 
